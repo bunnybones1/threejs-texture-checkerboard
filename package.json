@@ -1,0 +1,33 @@
+{
+  "name": "threejs-texture-checkerboard",
+  "version": "1.0.0",
+  "description": "A convenient way to generate procedural checkerboard textures.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0",
+    "threejs-managed-view": "^1.0.4"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "texture",
+    "checkerboard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-texture-checkerboard.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-texture-checkerboard",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-texture-checkerboard/issues"
+  }
+}

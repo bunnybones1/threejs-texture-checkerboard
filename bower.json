@@ -1,0 +1,7 @@
+{
+  "name": "threejs-texture-checkerboard",
+  "version": "0.0.1",
+  "devDependencies": {
+    "three.js": "*"
+  }
+}
